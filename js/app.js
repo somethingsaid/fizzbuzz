@@ -12,8 +12,8 @@ for (var i = 1; i <= 100; i++) {
 		output = i.toString();
 	}
 	document.write('<p>' + output + '</p>');
-	output = '';
-	console.log(output);
+    console.log(output);
+    output = '';
 }
 
 
